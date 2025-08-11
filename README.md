@@ -1,1 +1,20 @@
-# -alx-graphql-0x00
+# Character Queries
+
+This directory contains GraphQL queries and JSON outputs for retrieving specific characters by ID from the Rick and Morty API.
+
+## Endpoint
+https://rickandmortyapi.com/graphql
+
+## Fields Fetched
+- id
+- name
+- status
+- species
+- type
+- gender
+
+## Files
+- `character-id-1.graphql` & `character-id-1-output.json`
+- `character-id-2.graphql` & `character-id-2-output.json`
+- `character-id-3.graphql` & `character-id-3-output.json`
+- `character-id-4.graphql` & `character-id-4-output.json`
