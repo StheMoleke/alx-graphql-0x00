@@ -1,0 +1,69 @@
+{
+    "data": {
+      "characters": {
+        "results": [
+          {
+            "id": "41",
+            "name": "Mrs. Rodgers",
+            "status": "Dead",
+            "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+          },
+          {
+            "id": "42",
+            "name": "Mr. Goldenfold",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+          },
+          {
+            "id": "43",
+            "name": "Arthricia",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+          },
+          {
+            "id": "44",
+            "name": "Arthricia's Son",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+          },
+          {
+            "id": "45",
+            "name": "Beta-Seven",
+            "status": "unknown",
+            "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+          },
+          {
+            "id": "46",
+            "name": "Big Boobed Waitress",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+          },
+          {
+            "id": "47",
+            "name": "Bill",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+          },
+          {
+            "id": "48",
+            "name": "Blim Blam",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg"
+          },
+          {
+            "id": "49",
+            "name": "Blon",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg"
+          },
+          {
+            "id": "50",
+            "name": "Blue Shirt Morty",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
+          }
+        ]
+      }
+    }
+  }
+  
